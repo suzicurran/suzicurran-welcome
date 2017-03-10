@@ -12,7 +12,7 @@ WELCOME
 
 DEVFORHIRE
 
-![alt text](http://imgur.com/eC5etrb.jpg)
+![alt text](http://imgur.com/80Nq8qW.jpg)
 
 WINTER16
 
