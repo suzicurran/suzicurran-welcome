@@ -127,6 +127,7 @@ IMAGES = {
   'devforhire': DEVFORHIRE,
   'welcome' : WELCOME,
   'winter16' : WINTER16,
+  'suzicurran' : SUZICURRAN
 
 }
 
