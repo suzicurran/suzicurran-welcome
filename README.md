@@ -2,9 +2,9 @@
 
 ### About
 
-Welcome.py is a customized version of Gitfiti by Gel Studios. (https://github.com/gelstudios/gitfiti)
+Welcome.py is a customized version of Gitfiti by Gel Studios (https://github.com/gelstudios/gitfiti) and Thomas Scott (https://github.com/bigtomscott)
 
-It will allow you to generate a shell script that has 3 of my templates.
+It allows you to generate a shell script from several templates or two create your own.
 
 WELCOME
 
